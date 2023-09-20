@@ -11,7 +11,9 @@ public class Main {
 	//returns int of Fibbonacci sequence
 	public static int Fibonacci(int index)
 	{
+		//num1 lower temp
 		int num1 = 0;
+		//num2 higher temp
 		int num2 = 1;
 		int sum = 1;
 		int counter = 0;
